@@ -1,4 +1,4 @@
-# Tetes Realizar Compras
+# Tete Realizar Compras
 
 Foram utilizados para este projeto:
 IDE Intellij (JAVA) - Selenium WebDriver - Junit
